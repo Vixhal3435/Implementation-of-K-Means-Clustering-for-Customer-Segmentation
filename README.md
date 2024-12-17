@@ -1,4 +1,4 @@
-# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+![Screenshot 2024-12-17 155515](https://github.com/user-attachments/assets/88031abc-a5e1-4985-a402-8b96a01a2b3e)# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
@@ -61,8 +61,11 @@ plt.show()
 ```
 
 ## Output:
-![Screenshot 2024-12-12 122120](https://github.com/user-attachments/assets/f9578d6a-ce60-4f60-bf73-ec201582e280)
-![Screenshot 2024-12-12 122121](https://github.com/user-attachments/assets/cd88c7fa-893f-467b-8bf0-2f6c32b0edab)
+![Screenshot 2024-12-17 155549](https://github.com/user-attachments/assets/e91ff584-2672-4e0a-b9b5-2bd6fa346b73)
+
+![Screenshot 2024-12-17 155515](https://github.com/user-attachments/assets/3b5ed1a6-ec17-4e86-8f1c-01601e05bd1c)
+
+![Screenshot 2024-12-17 155528](https://github.com/user-attachments/assets/935fcf08-7e3e-459e-ad23-7e6d9aa8d52f)
 
 
 ## Result:
