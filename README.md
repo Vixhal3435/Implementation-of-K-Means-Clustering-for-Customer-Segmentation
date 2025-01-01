@@ -8,10 +8,35 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Problem Definition
+
+Identify the features to be used for clustering (e.g., purchase amount, frequency, age).
+
+2.Load and Preprocess Dataset
+
+Load the dataset and handle missing values, if any. Normalize or standardize the data for uniformity.
+
+3.Select Number of Clusters
+
+Use the elbow method or silhouette score to determine the optimal number of clusters.
+
+4.Initialize K-Means Algorithm
+
+Randomly initialize cluster centroids or use a specific method like k-means++ for initialization.
+
+5.Iterate to Minimize Distance
+
+Assign each data point to the nearest cluster centroid.
+Recalculate cluster centroids based on the assigned data points.
+Repeat until convergence (no significant change in centroids or max iterations reached).
+
+6.Evaluate Clustering
+
+Evaluate the results using metrics like inertia (within-cluster sum of squares) or silhouette score.
+
+7.Visualize Results
+
+Plot clusters to interpret and analyze the segments.
 
 ## Program:
 ```
